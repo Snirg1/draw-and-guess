@@ -1,0 +1,42 @@
+
+
+.sketch-canvas {
+    text-align: center;
+    position: relative;
+}
+
+
+.choosing-buttons{
+    text-align: center;
+
+}
+
+.guessing-view{
+    position: fixed;
+    text-align: center;
+}
+
+
+.guess-input-id{
+    position:relative;
+    text-align: center;
+    margin-left:45%;
+}
+h1 {
+    text-align: center;
+    color: #2f72da;
+}
+
+
+h2 {
+    text-align: center;
+    color: #2f72da;
+}
+
+.canvas-container{
+    width: 60%;
+    height: 80%;
+    position: fixed;
+    margin-left: 20%;
+
+}
