@@ -1,0 +1,12 @@
+Instructions:
+
+1.Run "npm install" from Draw & Guess/server
+2.Run "npm install" from Draw & Guess/my-draw-and-guess
+3.Change "SERVER_IP" at Draw & Guess/my-draw-and-guessed/src/constants.js to your local SERVER_IP
+4.On one process run node server.js from Draw & Guess/server
+5.On second process run npm start from Draw & Guess/my-draw-and-guess
+
+
+*All the website to be mobile responsive, i had a problem with connecting from my phone to server. all functionality tested on mobile.
+*All required functionality is working.
+
