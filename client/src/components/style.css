@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: "Courage Kid";
+    src: local("Courage Kid") ,url("../fonts/Courage Kid/Courage-Kid.ttf") format('truetype');
+}
+
+.sketch-canvas {
+    text-align: center;
+    position: relative;
+}
+
+
+.choosing-buttons {
+    text-align: center;
+
+}
+
+.guessing-view {
+    position: fixed;
+    text-align: center;
+}
+
+
+.guess-input-id {
+    position: relative;
+    text-align: center;
+    margin-left: 45%;
+}
+
+
+
+h1 {
+    text-align: center;
+    color: #0a0705;
+}
+
+.title {
+    font-family: Courage Kid, serif;
+    font-style: normal;
+    margin-top: 20px;
+    text-align: center;
+    color: #30d29b;
+}
+
+
+h2 {
+    text-align: center;
+    color: #30d29b;
+}
+
+.session-points{
+    margin-top: 30%;
+}
+
+.canvas-container {
+    width: 60%;
+    height: 80%;
+    position: fixed;
+    margin-left: 20%;
+
+}
